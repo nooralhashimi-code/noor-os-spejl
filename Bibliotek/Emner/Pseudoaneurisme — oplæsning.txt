@@ -1,0 +1,81 @@
+Pseudoaneurisme
+
+
+Kernepunkter
+
+Et pseudoaneurisme er en indeholdt ruptur, ikke en udvidelse. Mindst ét vægkomponent er brudt, og sækken holdes af de ydre lag, af perivaskulært væv, af koagel eller af reaktiv fibrose. Et ægte aneurisme har derimod alle tre lag intakte.
+
+Adskillelsen fra aktiv ekstravasation er flowmønstret. I pseudoaneurismet løber blodet tilbage til moderarterien gennem en smal hals. Ved ekstravasation løber det ud i vævet.
+
+To tegn, to modaliteter, to steder. Yin-yang er farve-Doppler i sækken. To-and-fro er spektral-Doppler i halsen. De to forveksles ofte.
+
+Femoralt efter punktur er én centimeter beslutningsgrænsen. Under afventes, over behandles med ultralydsvejledt trombininjektion.
+
+Den vigtigste differentialdiagnose er hæmatom. Det giver samme kliniske billede med pulserende udfyldning og misfarvning, men uden flow ved Doppler.
+
+
+Patoanatomi og opståen
+
+Mekanismen er velbeskrevet. Der dannes et hæmatom op ad arterien ved skadesstedet, og når koaglet efterfølgende lyseres, står hulrummet tilbage i forbindelse med karlumen. Dermed er pseudoaneurismet født.
+
+Det definitoriske skel er, at ved ægte aneurisme er alle tre lag intakte, mens der ved pseudoaneurisme er disruption af intima eller media eller begge, så kun adventitia er tilbage. Pseudoaneurismer er potentielt højst ustabile læsioner, og de er oftest post-traumatiske eller iatrogene.
+
+
+Ultralydsfundene
+
+Ved gråskala ses en ekkofattig eller blandet sæk ved siden af arterien, ofte med delvis trombosering.
+
+Ved farve-Doppler ses det klassiske yin-yang-mønster i sækken, altså modsatrettet flow i to halvdele, med højhastighedsflow i kommunikationen til femoralarterien.
+
+Ved spektral-Doppler i halsen ses to-and-fro, altså flow ind i sækken i systole og ud igen i diastole.
+
+Halsen skal måles, og det har konsekvens. Man måler halsens længde fra arteria femoralis communis til sækken, og man måler dens diameter, som svarer til hullets størrelse i arterien. En egentlig flænge er mindre egnet til trombininjektion. Diameteren måles helst i gråskala, fordi farve overestimerer den. Uden farve kan halsen dog undertiden slet ikke ses.
+
+
+Behandling
+
+Ved den afventende strategi tromboserer små femorale pseudoaneurismer spontant hos mere end halvfems procent, men ruptur ses i op til tre procent. Grænsen sættes konkret ved én centimeter. Under én centimeter afventes, og over én centimeter er ultralydsvejledt trombininjektion behandling af valg.
+
+Ved trombininjektion føres en enogtyvegauge nål ultralydsvejledt ind i sækkens centrum. En distinkt hals skal være identificeret, og arteriovenøs fistel skal være udelukket før injektion. Der kræves streng steril teknik hele vejen. Succesraten er fireoghalvfems til syvoghalvfems procent uden kirurgisk indgreb.
+
+Kompression er den ældre metode. Der komprimeres ultralydsvejledt i tyve til tredive minutter, hvilket er meget ubehageligt for patienten, især ved friske pseudoaneurismer og store hæmatomer. Recidiv ses hos under fem procent, og komplikationer er sjældne, men kan bestå i distal embolisering eller trombose. Succesraten angives lavere end for trombin, op til femogfirs procent, og metoden betragtes som mindre effektiv.
+
+
+Iatrogent pseudoaneurisme, punktursted og risiko
+
+Incidensen er omkring én procent af arterielle punkturer, og under én procent i de fleste interventionsradiologiske praksisser, hvis der ikke anvendes lukkeanordninger.
+
+Det kliniske billede viser sig inden for fireogtyve til otteogfyrre timer med lyskesmerter, pulserende udfyldning, ny mislyd samt lyskehæmatom eller retroperitonealt hæmatom. Et stort lyskehæmatom kan skjule et pseudoaneurisme uden palpabel pulsation.
+
+Punkturhøjden styrer komplikationstypen. En høj punktur over pelvis' rand giver risiko for retroperitonealt hæmatom med fatal blødning. En lav punktur giver risiko for arteriovenøs fistel, fordi vena femoralis distalt for standardpunkturstedet ofte ligger bag arterien i stedet for medialt for den.
+
+Oprindelsesarterien kan være arteria femoralis communis, arteria femoralis superficialis, arteria profunda femoris eller en lille gren.
+
+
+Andre lokalisationer
+
+I aorta ses det traumatiske pseudoaneurisme som en indeholdt ruptur holdt af omgivende bindevæv, og den klassiske lokalisation er isthmus aortae. Femogfirs procent skyldes penetrerende traume og femten procent stumpt traume. Et kronisk pseudoaneurisme efter overset skade har ofte udtalt perifer forkalkning, og forkalkningen anses for beskyttende mod ruptur.
+
+I hjertet er et kardialt pseudoaneurisme en indeholdt ventrikelruptur, hvor kun perikardielle adhærencer forhindrer fri ruptur. Der er intet myokardium i væggen. Tilstanden er associeret med okklusion af højre koronararterie eller ramus circumflexus, og den optræder typisk inferiort, inferolateralt eller posteriort. På CT eller MR ses en smal hals, modsat ved ægte aneurisme. Det kan rumpere, og tiltagende størrelse er alarmerende.
+
+Ved nyretransplantat ses postbiopsi-pseudoaneurisme hos én til to procent og anastomotisk pseudoaneurisme hos under én procent.
+
+Mykotisk aneurisme betyder infektiøst betinget og ikke nødvendigvis svamp. Her ses hurtig størrelsesændring, omgivende inflammation, perivaskulær gas, excentrisk eller sakkulær form samt manglende aterosklerotisk forkalkning.
+
+
+Faldgruber
+
+Yin-yang og to-and-fro forveksles. Det er forskellige modaliteter og forskellige steder, nemlig sækken over for halsen.
+
+Et hæmatom uden flow ligner klinisk et pseudoaneurisme, og Doppler afgør spørgsmålet.
+
+Arteriovenøs fistel skal udelukkes før trombin, ellers er der risiko for at trombin føres videre i kredsløbet.
+
+Farve overestimerer halsens diameter, så mål i gråskala, når det kan lade sig gøre.
+
+Et stort hæmatom kan maskere et pseudoaneurisme, fordi der ikke er palpabel pulsation.
+
+Ved poplitealt aneurisme skal abdominalaorta altid undersøges. Associationen er velkendt, og over halvdelen er bilaterale.
+
+
+Kilder til denne gennemgang er Core Radiology anden udgave, Diagnostic Ultrasound af Rumack femte udgave, Vascular and Interventional Radiology The Requisites anden udgave samt Radiology Secrets Plus fjerde udgave. Sideangivelser findes i den strukturerede udgave af noten.
