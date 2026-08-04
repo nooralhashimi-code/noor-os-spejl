@@ -3,7 +3,7 @@
 Envejs spejl fra Dropbox-vaulten. **Redigér ikke her** — ændringer
 overskrives ved næste sync. Sandhedskilden er Dropbox (Mac Mini).
 
-Senest synkroniseret: 2026-08-03 04:36 CEST
+Senest synkroniseret: 2026-08-04 04:36 CEST
 
 Mapper i spejlet:
 - `Bibliotek/Emner`
