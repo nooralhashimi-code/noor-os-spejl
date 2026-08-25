@@ -6,8 +6,8 @@ subspeciale: Kar- og interventionsradiologi
 drs-kompetence: 13.1 (vaskulær radiologi) · 13.2 (UL centrale kar) · 13.3 (invasive procedurer)
 esr-curriculum: Level I s. 13 (genkende på duplex) · Level II s. 63–64 (beskrive OG behandle) · Level III s. 24
 status: udkast — pilot
-opdateret: 2026-08-02
-sidst-repeteret:
+opdateret: 2026-08-24
+sidst-repeteret: 2026-08-24
 kilder-antal: 8
 ---
 
@@ -31,6 +31,9 @@ kilder-antal: 8
   vægkomponent er brudt; sækken holdes af de ydre lag, perivaskulært væv,
   koagel eller reaktiv fibrose. Et ægte aneurisme har derimod **alle tre lag
   intakte**.
+  *(Tutor-test 2026-08-24: "udvidelse"-framingen er et reelt forvekslingspunkt,
+  og hæmatom→lyse-trinnet (Rumack s. 1006) er det led, der oftest mangler i
+  genfortællingen — sig "indeholdt ruptur" først.)*
 - Adskillelsen fra aktiv ekstravasation er flowmønstret: i pseudoaneurismet
   løber blodet **tilbage** til moderarterien gennem en smal hals; ved
   ekstravasation løber det ud i vævet.
@@ -241,12 +244,30 @@ udeladt: transkriptets tidsstempler er verificeret upålidelige, se
   forskellige steder — sæk vs. hals.
 - **Hæmatom uden flow** ligner klinisk et pseudoaneurisme; Doppler afgør.
 - **AV-fistel skal udelukkes før trombin** — ellers risiko for at trombin
-  føres videre i kredsløbet.
+  føres videre i kredsløbet. *(Bekræftet hul i tutor-test 2026-08-24 —
+  ikke fremkaldelig før undervisning; sad ved sløjfelukning.)*
 - **Farve overestimerer halsens diameter** — mål i gråskala, når det kan lade
   sig gøre.
 - **Stort hæmatom kan maskere et pseudoaneurisme** (ingen palpabel pulsation).
 - Ved **popliteal aneurisme**: undersøg altid abdominalaorta — associationen
   er velkendt, og over halvdelen er bilaterale (Rumack s. 1006).
+
+**Erfaringsbaserede (tutor-loop 2026-08-24 — observeret i test, ikke lærebog):**
+
+- **1 cm forveksles med 1,5.** Behandlingsgrænsen (1 cm, Core Radiology
+  s. 609) kolliderer i hukommelsen med den danske aneurismedefinition
+  (>1,5×, Kirurgi s. 728) — to tal, to spørgsmål: *om* det er et aneurisme
+  vs. *hvad du gør* ved et femoralt pseudoaneurisme.
+- **Power-Doppler tilbydes til to-and-fro.** Power er retningsløs og uden
+  tidsakse — to-and-fro kræver spektral-Doppler i halsen; yin-yang kræver
+  retningskodet farve-Doppler i sækken.
+- **"Rolig lyske" fejllæses som beroligende.** Ved hypotension/takykardi
+  efter femoral adgang er den stille lyske forenelig med retroperitonealt
+  hæmatom (høj punktur — blodet løber bagud, kan ikke ses, palperes eller
+  komprimeres). Huskelinje: *for højt = blødning, for lavt = fistel.*
+- **Halsens længde glemmes** — kun diameteren nævnes spontant. Rumack
+  (s. 1007) kræver både længde (CFA → sæk) og diameter (= hullets størrelse
+  i arterien); begge indgår i vurderingen af trombin-egnethed.
 
 ## Klip fra forelæsningerne
 
@@ -519,3 +540,4 @@ Se `Reference/curriculum-kort.md` for hele krydsreferencen.
 | Dato | Ændring |
 |---|---|
 | 2026-08-02 | Note oprettet som pilot for emnekompendiet — syntese fra 5 kilder i `_tekstkorpus`, klipliste fra 72 forelæsningstranskripter, Anki-søgestreng. Ingen tutor-session endnu; faldgruberne er lærebogsbaserede, ikke erfaringsbaserede. |
+| 2026-08-24 | Tutor-session (første loop kørt): 6 huller/vakler observeret — 1 cm/1,5-forveksling, power-Doppler-fejlen, retroperitoneal-kæden, AV-fistel-udelukkelsen, halsens længde, mekanisme-trinnet — faldgruber gjort erfaringsbaserede; alle lukket ved sløjfelukning samme session. Kandidater til anki-vægtning. |
